@@ -1,0 +1,26 @@
+# --- Python cache & virtual environments ---
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+.env
+
+# --- macOS & editor junk ---
+.DS_Store
+.vscode/
+.idea/
+
+# --- AWS & deployment artifacts ---
+*.zip
+*.log
+*.tmp
+*.bak
+
+# --- Data engineering files ---
+.ipynb_checkpoints/
+*.csv
+*.parquet
+*.json
+
+# --- Jupyter / notebook metadata ---
+*.ipynb
