@@ -26,4 +26,5 @@ This project automates converting CSV files in S3 to Parquet format using an AWS
    - `pandas`
    - `pyarrow`
 
+## 🧠 What I Learned
 
