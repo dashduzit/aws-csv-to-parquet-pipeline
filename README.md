@@ -26,9 +26,4 @@ This project automates converting CSV files in S3 to Parquet format using an AWS
    - `pandas`
    - `pyarrow`
 
-## 🚀 GitHub Action
-You can automate deployments with `.github/workflows/deploy.yml`:
-```yaml
-aws lambda update-function-code \
-  --function-name $LAMBDA_FUNCTION_NAME \
-  --zip-file fileb://function.zip
+
