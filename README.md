@@ -27,4 +27,6 @@ This project automates converting CSV files in S3 to Parquet format using an AWS
    - `pyarrow`
 
 ## 🧠 What I Learned
+This was my first end-to-end data pipeline project in the cloud. I built it while I was learning how serverless processing works in AWS and how data formats impact performance. 
+
 
