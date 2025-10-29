@@ -28,6 +28,15 @@ This project automates converting CSV files in S3 to Parquet format using an AWS
 
 ## 🧠 What I Learned
 This was my first end-to-end data pipeline project in the cloud. 
-I built it while I was learning how serverless processing works in AWS and how data formats impact performance. 
+I built it while I was learning how serverless processing works in AWS and how data formats impact performance.
+Converting CSV to Parquet helped me understand why columnar storage is used in real analytics workflow: it speeds up queries, reduces storage cost, and handles large datasets more efficiently. 
+
+This project helped me:
+- Work with AWS Lambda triggers and permissions
+- Use Python to transform data in a real workflow 
+- Understand the difference between raw storage vs. optimized analytical storage 
+- Build confidence in deploying and iterating on my own projects 
+
+Always learning, always building. 
 
 
